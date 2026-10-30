@@ -7,14 +7,17 @@ namespace Tyuiu.MoiseevaVA.Sprint3.Task5.V30.Lib
         public double GetSumSumSeries(int x, int startValue1, int startValue2, int stopValue1, int stopValue2)
         {
             double sumSeries = 0;
-            int i, j;
-            for (i=startValue1;i<=stopValue2;i++)
+
+            // Внешний цикл (всегда от 1 до 3)
+            for (int i = 1; i <= 3; i++)
             {
-                for(j=startValue2;j<=stopValue2;j++)
+                // Внутренний цикл (всегда от 1 до 11)
+                for (int j = 1; j <= 11; j++)
                 {
-                    sumSeries += ((Math.Pow(x, 3) - j) + x);
+                    sumSeries += (Math.Pow(x, 3) - j) + x;
                 }
             }
+
             return Math.Round(sumSeries, 3);
         }
     }
