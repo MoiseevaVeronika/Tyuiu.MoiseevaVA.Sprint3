@@ -61,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task6.V12.Test", "Tyuiu.MoiseevaVA.Sprint3.Task6.V12.Test\Tyuiu.MoiseevaVA.Sprint3.Task6.V12.Test.csproj", "{CD77043F-1377-4753-A027-886FEA6AEAF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task7.V12", "Tyuiu.MoiseevaVA.Sprint3.Task7.V12\Tyuiu.MoiseevaVA.Sprint3.Task7.V12.csproj", "{E78F53FC-013D-4A17-93E8-A8C92711A283}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task7.V24", "Tyuiu.MoiseevaVA.Sprint3.Task7.V12\Tyuiu.MoiseevaVA.Sprint3.Task7.V24.csproj", "{E78F53FC-013D-4A17-93E8-A8C92711A283}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Lib", "Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Lib\Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Lib.csproj", "{1623F072-8065-45DB-85FE-649212BA66E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task7.V24.Lib", "Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Lib\Tyuiu.MoiseevaVA.Sprint3.Task7.V24.Lib.csproj", "{1623F072-8065-45DB-85FE-649212BA66E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Test", "Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Test\Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Test.csproj", "{40CADC10-099F-451D-99CE-16F512D553BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MoiseevaVA.Sprint3.Task7.V24.Test", "Tyuiu.MoiseevaVA.Sprint3.Task7.V12.Test\Tyuiu.MoiseevaVA.Sprint3.Task7.V24.Test.csproj", "{40CADC10-099F-451D-99CE-16F512D553BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
